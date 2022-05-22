@@ -21,6 +21,9 @@ The data is loaded from the live leaderboard, this means values will change but 
 
 > NOTE: You're solution should use pure SQL. Ruby is used within the test cases to do the actual testing.
 
+------------
+MyUID for this task - Sf5ssVIyBaID
+
 */
 
 SELECT row_number() over() rank, tmp.*
