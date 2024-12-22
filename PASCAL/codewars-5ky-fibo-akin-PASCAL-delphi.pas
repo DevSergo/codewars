@@ -1,4 +1,5 @@
-// https://www.codewars.com/kata/5772382d509c65de7e000982/pascal @DevSergo
+// https://www.codewars.com/kata/5772382d509c65de7e000982/pascal 
+// solution by @DevSergo https://devsergo.com
 
 unit kata;
 
